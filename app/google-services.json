@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "878308693187",
+    "firebase_url": "https://gashol-b7005-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "gashol-b7005",
+    "storage_bucket": "gashol-b7005.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878308693187:android:2cc27646e0a7dc19c1be76",
+        "android_client_info": {
+          "package_name": "com.dicoding.quizionercapstone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878308693187-mklghkfqqffhmbksnkjiv56rab98blh7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPGGVdFfOBB4ekvdGBH6Q5bJbnR_7fiOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "878308693187-mklghkfqqffhmbksnkjiv56rab98blh7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878308693187:android:38754d5db47a16a8c1be76",
+        "android_client_info": {
+          "package_name": "com.misael.modernloginregis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878308693187-mklghkfqqffhmbksnkjiv56rab98blh7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPGGVdFfOBB4ekvdGBH6Q5bJbnR_7fiOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "878308693187-mklghkfqqffhmbksnkjiv56rab98blh7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

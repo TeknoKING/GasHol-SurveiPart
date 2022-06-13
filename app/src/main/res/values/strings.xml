@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Capstone</string>
+    <string name="instuction">Personalize Your Vacation</string>
+    <string name="pertanyaan1">Enter Your Date of Birth </string>
+    <string name="pertanyaan2">Enter Your job</string>
+    <string name="pertanyaan3">Your Last Vacation Location</string>
+    <string name="pertanyaan4">Your Favorite City</string>
+    <string name="pertanyaan5">How Long Will You Stay For?</string>
+    <string name="pertanyaan6">What is Your Dream Vacation Mood? </string>
+    <string name="button_survei">Next</string>
+    <string name="Dream_vac">Your Dream Vacation ....</string>
+    <string name="Hint6">(example: City, Nature, Etc)</string>
+    <string name="Hint5">(example: xx Day/Week/Month)</string>
+    <string name="Hint4">(example: Surabaya, Jakarta, Etc)</string>
+    <string name="Hint3">(example: Jawa Barat, Sumatra Utara, Sulawesi, Etc)</string>
+    <string name="Hint2">(example: Mahasiswa, Dosen, PNS, Etc)</string>
+    <string name="Hint1">(example: DD/MM/YYYY)</string>
+</resources>
